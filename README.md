@@ -1,5 +1,7 @@
 # PyCaret Machine Learning Tutorials
 
+#Note: Please open the colab links for the 7 colabs in this readme file, pdf for some reason aren't loading, also check the videos
+
 Welcome to the complete collection of PyCaret machine learning tutorials! This repository contains 7 comprehensive Jupyter notebooks covering various machine learning tasks using PyCaret - a low-code Python library that automates machine learning workflows.
 
 ---
@@ -21,6 +23,7 @@ Watch the complete video series on YouTube:
 ## 📚 Notebooks Overview
 
 ### 1. Anomaly Detection (`Anomaly_Detection_Pycaret.ipynb`)
+https://colab.research.google.com/drive/1izxHqUqjosMeBfoCGNAuAY8PKaVgj4KC?usp=sharing
 
 **What it does:** Detects fraudulent credit card transactions using unsupervised learning.
 
@@ -38,6 +41,7 @@ Watch the complete video series on YouTube:
 ---
 
 ### 2. Association Rules Mining (`Association_Pycaret.ipynb`)
+https://colab.research.google.com/drive/1ONQC9YYdI_DE93OB1CswI84v9za8Qu0X?usp=sharing
 
 **What it does:** Discovers hidden patterns and relationships in grocery shopping data.
 
@@ -55,6 +59,7 @@ Watch the complete video series on YouTube:
 ---
 
 ### 3. Binary Classification (`Binary_Classification_Pycaret.ipynb`)
+https://colab.research.google.com/drive/1N-5fKthnErW4JLPns7xOetwAJv-QSlTD?usp=sharing
 
 **What it does:** Predicts presence or absence of heart disease (two-class problem).
 
@@ -74,6 +79,7 @@ Watch the complete video series on YouTube:
 ---
 
 ### 4. Clustering Analysis (`Clustering_Pycaret.ipynb`)
+https://colab.research.google.com/drive/1N-5fKthnErW4JLPns7xOetwAJv-QSlTD?usp=sharing
 
 **What it does:** Segments wholesale customers into distinct groups based on purchasing behavior.
 
@@ -93,6 +99,7 @@ Watch the complete video series on YouTube:
 ---
 
 ### 5. Multi-Class Classification (`MultiClass_Pycaret.ipynb`)
+https://colab.research.google.com/drive/1-UmxZn8agfW9wd1lrK2E3zaJaCh9Xkip?usp=sharing
 
 **What it does:** Predicts wine quality ratings across multiple categories (3-8 scale).
 
@@ -114,6 +121,7 @@ Watch the complete video series on YouTube:
 ---
 
 ### 6. Regression Analysis (`Regression_Pycaret.ipynb`)
+https://colab.research.google.com/drive/1tKKCW3PQXsSsShXXgA7VF47QhVrJ_Bhu?usp=sharing
 
 **What it does:** Predicts continuous house prices based on property features.
 
@@ -135,6 +143,7 @@ Watch the complete video series on YouTube:
 ---
 
 ### 7. Time Series Forecasting (`Time_Series_Forecasting.ipynb`)
+https://colab.research.google.com/drive/127-XSHyKVJp3ib3ShIrUjQS6w0Qe-h_n?usp=sharing
 
 **What it does:** Forecasts future daily temperatures using historical time series data.
 
